@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace and commerce, between the high and mighty kings, Charles, by the grace of God, king of Great Britain, France, and Ireland, defender of the faith, &amp;c. And John the 4th king of Portugal, Algarres, &amp;c. and their subjects. Concluded at London the nine and twentieth day of January, in the yeer of our Lord 1642. stilo novo. Translated out of Latin into English.</title>
+            <title>Treaties, etc. Portugal. 1642-01-29.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78662</idno>
+            <idno type="STC">Wing C2147</idno>
+            <idno type="STC">Thomason E149_21</idno>
+            <idno type="STC">ESTC R4296</idno>
+            <idno type="EEBO-CITATION">99872644</idno>
+            <idno type="PROQUEST">99872644</idno>
+            <idno type="VID">156729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace and commerce, between the high and mighty kings, Charles, by the grace of God, king of Great Britain, France, and Ireland, defender of the faith, &amp;c. And John the 4th king of Portugal, Algarres, &amp;c. and their subjects. Concluded at London the nine and twentieth day of January, in the yeer of our Lord 1642. stilo novo. Translated out of Latin into English.</title>
+                  <title>Treaties, etc. Portugal. 1642-01-29.</title>
+                  <author>England and Wales.</author>
+                  <author>Portugal. Treaties, etc. England and Wales. 1642-01-29.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Latin original not traced.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portugal. --  Treaties, etc. England and Wales. 1642-01-29 --  Early works to 1800.</term>
+               <term>Peace treaties --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Portugal --  Early works to 1800.</term>
+               <term>Portugal --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="act">
+            <pb facs="tcp:156729:1"/>
+            <head>Die Iovis 2 <hi>Junii.</hi> 1642.</head>
+            <p>WHereas it doth appeare to the Lords and Commons in Parliament, That the King, ſeduced by wicked Counſell, doth intend to leavy Warre against his Parliament; and whereas information hath beene given; That the Iewels of the Crowne (which by the law of the land ought not to be alienated) are either pawned or ſold in <hi>Amſterdam,</hi> or ſome other parts beyond the Seas, and thereby great Sums of money provided to be returned to <hi>York,</hi> or to ſome of his Majesties Servants or Agents for His Majeſties uſe: And whereas tis more then probable, That this great Proviſion of Monyes in ſuch an extraordinary way, is to maintaine this intended warre, and there<g ref="char:EOLhyphen"/>by to bring the whole Kingdome into utter ruine and combustion. It is therefore declared by the Lords and Commons in Parliament. That who<g ref="char:EOLhyphen"/>ſoever hath beene, or ſhall be an Actor in the ſelling or pawning of any of the Iewels of the Crowne, or hath, or ſhall pay, lend, ſend, or bring any Money in <hi>Specie</hi> into this Kingdome, for, or upon any of thoſe Iewels; Or whoſoever hath or ſhall accept of any Bill from beyond the Seas, for the payment of any ſumme of money for, or upon any of thoſe Iewels, and ſhall paſſe any ſumme according to ſuch Bill, after notice of this Order, with<g ref="char:EOLhyphen"/>out acquainting this Houſe with the receipt of ſuch Bill before he accept the ſame; Or if he have already accepted any ſuch Bill, then with the ac<g ref="char:EOLhyphen"/>ceptance thereof before the payment of the mony, Every ſuch perſon ſhall be held and accounted a promoter of this intended warre, an enemy to the State, and ought to give ſatisfaction for this publick dammage out of His owne Eſtate.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:156729:1" rendition="simple:additions"/>
+            <p>ARTICLES OF PEACE and COMMERCE, Between the High and Mighty Kings, CHARLES, by the grace of God, King of Great Britain, France, and Ire<g ref="char:EOLhyphen"/>land, Defender of the Faith, &amp;c.</p>
+            <p>And JOHN the 4<hi rend="sup">th</hi> King of <hi>Portugal, Algarres, &amp;c.</hi> And their SUBJECTS, Concluded at London the nine and twentieth day of January, in the yeer of our Lord 1642. <hi>Stilo novo.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of Latin into Engliſh.</hi>
+            </p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:156729:2"/>
+            <pb facs="tcp:156729:2"/>
+            <head>¶ By the King.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the High and Mighty Prince, <hi>John</hi> the fourth, King of <hi>Por<g ref="char:EOLhyphen"/>tugall, &amp;c.</hi> hath lately ſent his Ambaſſadours to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſtie, decla<g ref="char:EOLhyphen"/>ring his deſire to renew the ancient Con<g ref="char:EOLhyphen"/>federation and Amity between their Royall Predeceſſours, Crowns and Subjects; His Majeſtie out of His roy<g ref="char:EOLhyphen"/>all Care of the Peace and Tranquillity of His Kingdoms, and the freedom of Trade and Commerce of His loving Subjects, By the advice of His Privie Councell, hath been pleaſed to yeeld
+<pb facs="tcp:156729:3"/> thereunto, and doth make known to His loving people, That the ſaid Peace and Confederation is concluded and eſta<g ref="char:EOLhyphen"/>bliſhed between the ſaid Kings, their Crowns, Kingdoms, Territories and Subjects: And the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſtie, for the direction of His Merchants in their Trade and Com<g ref="char:EOLhyphen"/>merce, hath given Command, That the Articles of this Treatie of Peace ſhall be publiſhed, ſtraitly charging and com<g ref="char:EOLhyphen"/>manding all His Subjects of whatſoe<g ref="char:EOLhyphen"/>ver degree and eſtate to obſerve the ſame.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at York</hi> 
+                  <date>
+                     <hi>the two and twen<g ref="char:EOLhyphen"/>tieth day of May, in the eighteenth yeer of His Majeſties Reign.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>¶ God ſave the King.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:156729:3"/>
+            <head>ARTICLES OF THE TREATIE.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, it is concluded and accord<g ref="char:EOLhyphen"/>ed, that there is and ſhall be for ever a good, true, and firm Peace and Amitie between the moſt renowned Kings, CHARLES, King of Great <hi>Britain,</hi> and JOHN the fourth, King of <hi>Portu<g ref="char:EOLhyphen"/>gall,</hi> their Heirs and Succeſſors, and their King<g ref="char:EOLhyphen"/>doms, Countries, Dominions, Lands, Peoples, Liegemen, Vaſſalls and Subjects whomſoever, preſent, and to come, of whatſoever Condition, Dignity &amp; Degree they maybe, as well by Land
+<pb facs="tcp:156729:4"/> as by Sea, and Freſh-waters, ſo as the ſaid Vaſſalls and Subjects are each of them to favour other, and to uſe one and other with friendly offices and true affection; And that neither of the ſaid moſt renowned Kings, their Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, by himſelf or by any other, ſhall do or at<g ref="char:EOLhyphen"/>tempt any thing againſt each other, or their Kingdoms, by Land or by Sea, nor ſhall conſent nor adhere unto any War, Counſell, or Treatie in prejudice of the other.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That between the moſt renowned Kings aforeſaid, and the Vaſſalls, Inhabitants, and Sub<g ref="char:EOLhyphen"/>jects of each of them, as well by Land, as by Sea and Freſh-waters, in all and ſingular their King<g ref="char:EOLhyphen"/>doms, Dominions, Iſlands, and other Lands, Cities, Towns, Villages, Havens, and Territories of the ſaid Kingdoms and Dominions, there is and ſhall be free Commerce (in which there was in the time of the Kings of <hi>Caſteele,</hi> or hitherto hath been Commerce) ſo that without any Safe-Conduct, or other Licence generall or ſpeciall, as well by Land, as by Sea and Freſh-waters, the Subjects and Vaſſalls of each King may and ſhall
+<pb facs="tcp:156729:4"/> go, enter, and ſail, in and to the Kingdoms and Dominions aforeſaid, and the Cities, Towns, Havens, Shores, Sea-Rodes, and Territories of the ſame, and with Carriages, Horſes, Burdens, Ships loaden or to be loaden, to bring in Mer<g ref="char:EOLhyphen"/>chandizes, to buy or ſell, as much as they will, Victuals, and upon juſt Prices to make proviſion of things neceſſary for their ſuſtenance and Voya<g ref="char:EOLhyphen"/>ges, and to repair their Shipping and Carriages of their own propertie, or hired, or borrowed by them, and from thence alſo with the ſame free<g ref="char:EOLhyphen"/>dom to depart with their Merchandizes, Goods, and things whatſoever, having paid onely ſuch Cuſtomes and Tolles, as according to the Ordi<g ref="char:EOLhyphen"/>nances of each place are at that time rated, and may thence go without let or impediment unto their own Countries, or any other places where and how they pleaſe.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>And that the Subjects of each of the moſt renowned Kings before named, in the Domini<g ref="char:EOLhyphen"/>ons and Territories of the other, ſhall not be worſe dealt withall then the naturall Subjects in their Sales and Contracts for their Merchandi<g ref="char:EOLhyphen"/>zes,
+<pb facs="tcp:156729:5"/> as well for Price as otherwiſe, but that the condition of Forreigners and naturall Subjects ſhall be equall and alike as aforeſaid, according to the practice of ancient Treaties made between the moſt renowned Kings of Great <hi>Britain</hi> and <hi>Caſteele.</hi>
+               </p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That the Subjects of the moſt renowned King of Great <hi>Britain</hi> ſhall at their own free will and pleaſure uſe and enjoy any kinde of Mer<g ref="char:EOLhyphen"/>chandizes and Trading in Merchandize, in the Kingdoms, Provinces, Territories and Iſlands of the moſt renowned King of <hi>Portugall,</hi> in <hi>Europe;</hi> and that they ſhall as freely and in the ſame manner exerciſe their Trade of Merchan<g ref="char:EOLhyphen"/>dizes in the places aforeſaid, as is permitted to the Subjects of other Princes and States in League with the King of <hi>Portugall;</hi> neither ſhall they be more burdened with Cuſtoms, Impoſi<g ref="char:EOLhyphen"/>tions, or other Taxes, then the Inhabitants and Subjects of the ſaid Lands, or other Subjects of any Nation whatſoever in League with the Por<g ref="char:EOLhyphen"/>tugalls, and they ſhall enjoy the ſame Priviledges which were granted to the Engliſh before <hi>Por<g ref="char:EOLhyphen"/>tugall</hi> was united to <hi>Casteele.</hi>
+               </p>
+            </div>
+            <div n="5" type="article">
+               <pb facs="tcp:156729:5"/>
+               <head>V.</head>
+               <p>That whenſoever the Subjects of the King of Great <hi>Britain</hi> ſhall with their Ships arrive at the Havens of the moſt renowned King of <hi>Portugall</hi> in his Kingdoms and Dominions, they ſhall not be conſtrained by the Miniſters, Officers, and Subjects of the King of <hi>Portugall,</hi> to put or load into their ſhips any other kinde or quantities of goods and merchandizes, then it ſhall pleaſe and ſeem good unto the ſaid Subjects of the King of Great <hi>Britain:</hi> And that the Subjects of the King of <hi>Portugall</hi> ſhall enjoy the ſame freedome in the Havens and Dominions of the King of Great <hi>Bri<g ref="char:EOLhyphen"/>tain.</hi>
+               </p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That if it ſhall happen that the Subjects of the moſt renowned King of <hi>Portugall,</hi> or any other within his Kingdomes and Dominions, or their merchandizes and goods ſhall be taken, ſeaſed or arreſted by the Office of the Court of In<g ref="char:EOLhyphen"/>quiſition, or the Judges, or Miniſters thereof, which have been or ſhall be ingaged or indebted to the Subjects of the moſt renowned King of Great <hi>Britain,</hi> the ſaid debts ſhall be fully paid
+<pb facs="tcp:156729:6"/> out of the ſaid goods and merchandizes, within the yeer immediately following the ſaid arreſt, without any hinderance or trouble of the ſaid Court, or the Judges and Miniſters of the ſame whoſoever: And if any of the goods and mer<g ref="char:EOLhyphen"/>chandizes of the ſaid Subjects of the King of Great <hi>Britain,</hi> ſhall remain <hi>in ſpecie</hi> among the ſaid goods and merchandizes ſo ſeized and arreſted, the ſame ſhall be immediately reſtored unto them.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>That the Captains, Maſters, Officers, and Mariners of the ſhips of the moſt renowned King of Great <hi>Britain,</hi> or his Subjects, ſhall not commence any Actions, nor procure any trou<g ref="char:EOLhyphen"/>ble againſt the ſaid ſhips, or any the Subjects of the ſaid King, within the Kingdoms and Domi<g ref="char:EOLhyphen"/>nions of the King of <hi>Portugall,</hi> for their wages or ſalaries, under colour or pretext that they pro<g ref="char:EOLhyphen"/>feſſe the Roman Religion, or ſhall have put them<g ref="char:EOLhyphen"/>ſelves into the ſervice of the moſt renowned King of <hi>Portugall.</hi>
+               </p>
+            </div>
+            <div n="8" type="article">
+               <pb facs="tcp:156729:6"/>
+               <head>VIII.</head>
+               <p>That the Conſuls named and appointed by the moſt renowned King of Great <hi>Britain,</hi> for the aid and protection of his Subjects, re<g ref="char:EOLhyphen"/>maining within the Kingdoms and Dominions of the moſt renowned King of <hi>Portugall,</hi> ſhall fully and freely exerciſe the power and authority of Conſuls within the ſaid Kingdoms and Do<g ref="char:EOLhyphen"/>minions, although they ſhall not profeſſe the Roman Religion.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>That if any Subjects of the moſt renowned King of Great <hi>Britain</hi> ſhall depart this life within the Kingdoms and Dominions of the moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>Portugall,</hi> the books, accounts, merchandizes and goods of them, or of any other Subjects of the ſaid King of Great <hi>Britain,</hi> ſhall not from henceforth be taken or ſeized by the Judges of Orphans and Abſents, or their Mi<g ref="char:EOLhyphen"/>niſters, or Officers, neither ſhall they be ſubject to their Juriſdiction; but the ſame goods, mer<g ref="char:EOLhyphen"/>chandizes and accounts, ſhall be delivered, by the poſſeſſors of them, to Engliſh Agents, or Fa<g ref="char:EOLhyphen"/>ctors
+<pb facs="tcp:156729:7"/> reſiding in that City, named and appointed by the ſaid Deceaſed: And if he ſhall have named none while he lived, they ſhall be delivered to one or two Engliſh Merchants, (provided they be Bachelors) by authority of the Conſervator of the Engliſh, having firſt given Caution with good Sureties to be allowed by the ſaid Conſer<g ref="char:EOLhyphen"/>vator, to reſtore the ſaid Goods &amp; Merchandizes to the true Owners thereof, or their lawfull Creditors: And thoſe Goods which ſhall appear to belong to the Deceaſed, ſhall be delivered to his Heirs, Executors, or Creditors.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X</head>
+               <p>That the moſt renowned King of <hi>Portugall,</hi> or his Miniſters within his Kingdoms and Do<g ref="char:EOLhyphen"/>minions, ſhall not arreſt, or withhold the Ships of the Subjects of the moſt renowned King of Great <hi>Britain,</hi> or his Subjects, without his know<g ref="char:EOLhyphen"/>ledge and conſent, for his ſervices of War, or any other ſervices whatſoever; But that the ſaid Ships and Subjects may freely, and at their own pleaſure depart out of the Ports and Dominions of the ſaid King, without any hinderance of the ſaid King of <hi>Portugall,</hi> or his Miniſters: And that
+<pb facs="tcp:156729:7"/> the Goods and Merchandizes of the Subjects of the King of Great <hi>Britain</hi> ſhall not be taken for the ſervice of the King of <hi>Portugall,</hi> but for the juſt and common-price thereof, to be paid with<g ref="char:EOLhyphen"/>in two Moneths following, unleſſe ſome other time of paiment ſhall be agreed on by both parts.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>That the Subjects of the moſt renowned King of Great <hi>Britain</hi> ſhall freely carry in their Ships all things, Goods and Merchandizes, of what kinde ſoever they be, even Arms, Victuals, or any other of the like kinde out of the Ports and Dominions of the ſaid King, or of any Ports and Dominions whatſoever, (ſo that they be not immediately carried out of the Ports of <hi>Por<g ref="char:EOLhyphen"/>tugall,</hi> or the Dominions thereof) to be tranſ<g ref="char:EOLhyphen"/>ported to any Ports and Territories of the moſt renowned King of <hi>Caſteele;</hi> And that the moſt renowned King of <hi>Portugall,</hi> or his Subjects, ſhall not by Seizures, Reprizalls, or any other means hinder the ſaid Ships, Goods and Per<g ref="char:EOLhyphen"/>ſons of the Subjects of the King of Great <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> but that they may ſafely Sail to the Ports and Territories of the ſaid King of <hi>Caſteele,</hi> and
+<pb facs="tcp:156729:8"/> there exerciſe their Merchandize and Trade: And that the Subjects of the Kings of Great <hi>Britain</hi> and <hi>Portugall</hi> ſhall on both parts have the ſame Power, if hereafter it ſhall happen that ei<g ref="char:EOLhyphen"/>ther of the ſaid Kings ſhall have War with the Friend of the other, and the Subjects of the King of Great <hi>Britain</hi> ſhall carry all kinde of Merchandize, even Arms, Victualls, or any other of the like kinde, with the ſame Freedom into the Kingdoms and Dominions of the King of <hi>Portugall,</hi> and ſhall there ſell the ſame at their own pleaſure, in publike Market, or privately, without any hinderance of the moſt renowned King of <hi>Portugall,</hi> or his Miniſters.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>Item, That the convention of Truce made between <hi>D. Michael de Loronha, Conde de Linhares</hi> Vice-Roy of <hi>Goa,</hi> and <hi>William Methwold</hi> Preſident of the Engliſh in <hi>Eaſt India,</hi> the 20<hi rend="sup">th</hi> of January 1635. <hi>Stilo novo,</hi> ſhall be continued and kept between the Subjects of both Kings in <hi>East In<g ref="char:EOLhyphen"/>dia,</hi> and in all the Dominions of the moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>Portugall</hi> beyond <hi>Cape Bona Speranza;</hi> And that the Commiſſioners to be
+<pb facs="tcp:156729:8"/> named by the ſaid Kings, ſhall in <hi>East India</hi> take Cognizance within three yeers of the Demands which have been or ſhall be made by the Sub<g ref="char:EOLhyphen"/>jects and Vaſſalls of both Kings, for their Com<g ref="char:EOLhyphen"/>merce in <hi>India</hi> aforeſaid, that ſo a perpetuall Peace and Confederation may be confirmed and eſtabliſhed by the ſaid Kings, between their Sub<g ref="char:EOLhyphen"/>jects on both parts.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>And becauſe the Commerce and free coming of the Subjects of the King of Great <hi>Britain</hi> to the Coaſts and parts of <hi>Africa,</hi> the Iſland of S. <hi>Thome,</hi> and other Iſlands comprehended un<g ref="char:EOLhyphen"/>der them, could not yet be agreed on by reaſon of the defect of the Powers ſent by the moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>Portugall</hi> to his Ambaſſadors, that by this debate this preſent Treatie of Peace and Amitie between both Kings and their Sub<g ref="char:EOLhyphen"/>jects be not delayed, it is on both parts conclu<g ref="char:EOLhyphen"/>ded on, That in the Lands, Places, Caſtles, Ports, and Coaſts of <hi>Africa, Guyne, Bine, &amp;c.</hi> the Iſland of S. <hi>Thome,</hi> and other Iſlands comprehended under them, wherein it ſhall appear that the Subjects of Great <hi>Britain</hi> have dwelt for Trade
+<pb facs="tcp:156729:9"/> of Merchandize, or have had Trade or Com<g ref="char:EOLhyphen"/>merce there in the time of the Kings of <hi>Caſteele,</hi> or hitherto, there ſhall be no alteration or change, neither ſhall they have any trouble or injury done them by the Portugalls for that cauſe. And if any Cuſtomes be to be demanded from the Subjects of the King of Great <hi>Britain,</hi> on any cauſe, in the Caſtles, Iſlands, and Places afore<g ref="char:EOLhyphen"/>ſaid, they ſhall not be greater or more grievous then thoſe which ſhall be demanded from other Nations in League with the King of <hi>Portugall:</hi> And the Subjects of the King of <hi>Portugall</hi> want<g ref="char:EOLhyphen"/>ing Forreign Ships for their Navigation and Commerce to the Coaſts and Iſlands aforeſaid, may freely at their own pleaſure hire the Ships of the Subjects of the King of Great <hi>Britain:</hi> And that Commiſſioners and Ambaſſadors ſhall be named by both Kings, who ſhall Treat and Conclude concerning the Commerce and free coming to the Coaſts, Iſlands, and Places afore<g ref="char:EOLhyphen"/>ſaid, which hath been demanded by the Commiſ<g ref="char:EOLhyphen"/>ſioners of the King of Great <hi>Britain,</hi> for the Sub<g ref="char:EOLhyphen"/>jects of their King, being perſwaded out of the confidence of the ancient amity which hath been between the Predeceſſors of the ſame Kings, that
+<pb facs="tcp:156729:9"/> the moſt renowned King of <hi>Portugall</hi> will grant to no Nation more ample Rights, Immunities and Priviledges, then he will grant unto the Sub<g ref="char:EOLhyphen"/>jects of the King of Great <hi>Britain.</hi>
+               </p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>And foraſmuch as the moſt renowned King of <hi>Portugall</hi> by his Grant, confirmed by his Seal, dated in <hi>Lisbone</hi> the 21. day of January, in the yeer of the birth of Our Lord, 1641. hath given free power to the Inhabitants of the Lands ſub<g ref="char:EOLhyphen"/>ject to the Dominions of the States of <hi>Holland,</hi> &amp;c. to bring in, and to export all kinde of Mer<g ref="char:EOLhyphen"/>chandizes out of his Kingdoms, Dominions, and Territories, That the Subjects of the King of Great <hi>Britain</hi> ſhall have, and enjoy the ſame Power in the Kingdoms and Dominions of the ſaid moſt renowned King of <hi>Portugall,</hi> accord<g ref="char:EOLhyphen"/>ing to the Tenour of the ſaid Grant.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>And that the Engliſh Merchants, and other Subjects of the King of Great <hi>Britain,</hi> ſhall enjoy as great, and the ſame Immunitie from being Impriſoned, Arreſted or any other way troubled
+<pb facs="tcp:156729:10"/> in their Perſons, Houſes, Books of Accompts, and Accompts, Merchandizes and Goods with<g ref="char:EOLhyphen"/>in the Dominions of the moſt renowned King of <hi>Portugall,</hi> as hath been granted, or ſhall be hereafter granted to any other Prince, or People in league with the King of <hi>Portugall.</hi>
+               </p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>And becauſe there is yet no agreement made concerning Fraighting of the Ships of the Sub<g ref="char:EOLhyphen"/>jects of the moſt renowned King of Great <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> by the <hi>Portugalls,</hi> for their Commerce and Navigation into <hi>Braſill,</hi> it hath pleaſed both Parties, that Commiſſioners or Ambaſſadours ſhall be appointed, and ſent by the ſaid Kings within two yeers, who ſhall have power to treat and agree concerning this Article.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>And becauſe the Rights of Commerce and Peace ſhall be made unprofitable, if the Subjects of the moſt renowned King of Great <hi>Britain</hi> ſhall be troubled for their conſciences, while they go to and from the Kingdoms and Dominions of the moſt renowned King of <hi>Portugall,</hi> or
+<pb facs="tcp:156729:10"/> reſide there for Commerce or Buſineſſe; There<g ref="char:EOLhyphen"/>fore that their Commerce be ſafe and ſecure, as well on Land as on Sea, the moſt renowned King of <hi>Portugall</hi> ſhall take care, and provide that they ſhall not be moleſted or diſturbed for the ſaid Caſe of Conſcience, ſo as they give not ſcandall unto others. And although the moſt renowned King of <hi>Portugall</hi> do acknowledge that he hath not power to determine and di<g ref="char:EOLhyphen"/>ſpoſe of Faith and Religion, yet out of his love and great affection to the moſt renowned King of Great <hi>Britain,</hi> and the Engliſh Nation, he ſhall take care that the Engliſh, and other Subjects of the ſaid King, ſhall have and enjoy as great Li<g ref="char:EOLhyphen"/>berty in the practice and exerciſe of their Religi<g ref="char:EOLhyphen"/>on within the Kingdoms, Dominions, and Ter<g ref="char:EOLhyphen"/>ritories of the King of <hi>Portugall,</hi> as ſhall be per<g ref="char:EOLhyphen"/>mitted to the Subjects of any other Prince, or Common-wealth whatſoever.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>If it ſhall happen hereafter (which God for<g ref="char:EOLhyphen"/>bid) that any controverſies and doubts ſhall ariſe between the ſaid moſt renowned Kings, whereby there may be danger of the interruption
+<pb facs="tcp:156729:11"/> of Commerce and Intercourſe between their Subjects, there ſhall be publike Monition given to the Subjects on both parts, in all and ſingular the Kingdoms and Provinces of each King, and after ſuch Monition they ſhall have two yeers on both parts to tranſport their Merchandizes and Goods, and that no trouble, impediment, or hurt ſhall be done in the mean time either to Things or Perſons on either part.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX.</head>
+               <p>And if during this Peace and Amitie any thing ſhall be attempted, committed, or done againſt the force and effect thereof by Land, Sea, or Freſh-waters, by any of the ſaid Kings, their Heirs and Succeſſors, their Vaſſalls, or Subjects, yet notwithſtanding this Peace and Amitie ſhall remain in ſtrength and vertue, and the attempt<g ref="char:EOLhyphen"/>ers and offenders onely, and none others, ſhall be puniſhed for ſuch their attempts.</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX.</head>
+               <p>Item, It is concluded and accorded that the preſent Peace and Confederation ſhall not dero<g ref="char:EOLhyphen"/>gate from the Leagues and Confederations here<g ref="char:EOLhyphen"/>tofore
+<pb facs="tcp:156729:11"/> made and contracted between the moſt renowned King of Great BRITAIN, and other Kings, Princes, and Common wealths, but that the ſaid Leagues and Confederations ſhall be firmly kept, and ſhall hereafter remain in full ſtrength, notwithſtanding this Treaty of Peace.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI.</head>
+               <p>Finally, It is Concluded that the ſaid moſt re<g ref="char:EOLhyphen"/>nowned Kings, CHARLES, King of Great BRITAIN, &amp;c. and JOHN the fourth, King of PORTUGALL, &amp;c. ſhall ſincerely and faithfully obſerve and keep, and cauſe to be ob<g ref="char:EOLhyphen"/>ſerved by their Subjects and Inhabitants, all and ſingular the Capitulations concluded and ac<g ref="char:EOLhyphen"/>corded in this preſent Treatie, and that they ſhall not, directly or indirectly, do contrary to the ſame: And that they ſhall confirm and ratifie all and ſingular the Conventions aforeſaid, by their Letters Patents, ſubſcribed with their Royall Hands, and with their Great Seals, in good and due form, and upon the firſt occaſion ſhall deliver, or cauſe to be delivered the ſame, faithfully, really, and effectually: And they ſhall mutually binde themſelves by promiſe, in the
+<pb facs="tcp:156729:12"/> Word of a King, that they ſhall obſerve and keep all and ſingular the Premiſſes, whenſoever they ſhall be thereunto required by either part; And they ſhall cauſe this preſent Peace and Ami<g ref="char:EOLhyphen"/>tie, in manner accuſtomed, to be publiſhed, ſo ſoon as the ſame conveniently may be done.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156729:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
